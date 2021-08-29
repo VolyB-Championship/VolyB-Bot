@@ -1,0 +1,3 @@
+curl -XDELETE $REPLIT_DB_URL/teams
+curl -XDELETE $REPLIT_DB_URL/players
+curl -XDELETE $REPLIT_DB_URL/staff
